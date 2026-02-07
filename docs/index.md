@@ -7,7 +7,6 @@ Built with Zensical [zensical.org](https://zensical.org/docs/).
 ```bash
 pip install pipx
 pipx install uv 
-uv add zensical
 uvx zensical build
 ```
 
