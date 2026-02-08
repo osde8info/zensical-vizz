@@ -15,5 +15,5 @@ uvx zensical build
 - cloudflare
 - gh pages
 - gl pages
-- netlify
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/b50fd118-dd43-4934-9ddf-862fb530d5cd/deploy-status)](https://app.netlify.com/projects/vizz8info/deploys)
 - vercel
